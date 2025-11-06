@@ -1,0 +1,6 @@
+region = "us-east-1"
+project_name = "login-demo"
+docker_image_tag = "latest"
+ssh_cidr = "203.0.113.45/32"
+instance_type = "t3.micro"
+key_name = "my-ec2-key"
